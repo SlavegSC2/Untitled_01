@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="//">
+    <file>img/del.png</file>
+    <file>img/down_arr.png</file>
+    <file>img/srch.png</file>
+    <file>img/top_arr.png</file>
+  </qresource>
+</RCC>
